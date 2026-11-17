@@ -1,0 +1,18 @@
+# Python 3.9+ (built and tested on 3.9.25)
+langgraph==0.6.11
+langchain-core==0.3.86
+langchain-openai==0.3.35
+openai==2.48.0
+gradio==4.44.1
+# Gradio 4.44 breaks with huggingface_hub>=1.0 (HfFolder removed) and pydantic>=2.11 (API schema bug)
+huggingface_hub==0.36.2
+pydantic==2.10.6
+python-dotenv==1.2.1
+tzdata==2026.6
+pytest==8.4.2
+# Tracing (Arize AX)
+arize-otel==0.14.1
+openinference-instrumentation-openai==0.1.49
+openinference-instrumentation-langchain==0.1.55
+# openinference-instrumentation-langchain 0.1.55 calls wrap_function_wrapper(module=...), which wrapt 2.x renamed to target=
+wrapt>=1.14,<2

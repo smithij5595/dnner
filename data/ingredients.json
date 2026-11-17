@@ -1,0 +1,999 @@
+{
+  "almond milk": {
+    "category": "dairy",
+    "allergens": [
+      "tree_nut"
+    ],
+    "animal_product": "none"
+  },
+  "arborio rice": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "asparagus": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "avocado": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "baking powder": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "balsamic vinegar": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "bamboo shoots": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "banana": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "basil": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "basil pesto": {
+    "category": "pantry",
+    "allergens": [
+      "tree_nut",
+      "dairy"
+    ],
+    "animal_product": "dairy"
+  },
+  "basmati rice": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "bbq sauce": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "bean sprouts": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "beef broth": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "meat"
+  },
+  "beef chuck roast": {
+    "category": "protein",
+    "allergens": [],
+    "animal_product": "meat"
+  },
+  "bell pepper": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "black beans": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "bok choy": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "breadcrumbs": {
+    "category": "pantry",
+    "allergens": [
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "broccoli": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "brown lentils": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "brown sugar": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "butter": {
+    "category": "dairy",
+    "allergens": [
+      "dairy"
+    ],
+    "animal_product": "dairy"
+  },
+  "butter lettuce": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "cabbage": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "canned tomatoes": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "canned tuna": {
+    "category": "protein",
+    "allergens": [
+      "fish"
+    ],
+    "animal_product": "fish"
+  },
+  "cannellini beans": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "carrot": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "cashews": {
+    "category": "pantry",
+    "allergens": [
+      "tree_nut"
+    ],
+    "animal_product": "none"
+  },
+  "cauliflower": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "celery": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "certified gluten-free oats": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "cheddar": {
+    "category": "dairy",
+    "allergens": [
+      "dairy"
+    ],
+    "animal_product": "dairy"
+  },
+  "cherry tomatoes": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "chia seeds": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "chicken breast": {
+    "category": "protein",
+    "allergens": [],
+    "animal_product": "meat"
+  },
+  "chicken broth": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "meat"
+  },
+  "chicken drumsticks": {
+    "category": "protein",
+    "allergens": [],
+    "animal_product": "meat"
+  },
+  "chicken thighs": {
+    "category": "protein",
+    "allergens": [],
+    "animal_product": "meat"
+  },
+  "chickpea flour": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "chickpeas": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "chili": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "chili flakes": {
+    "category": "spices",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "chili powder": {
+    "category": "spices",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "ciabatta": {
+    "category": "bakery",
+    "allergens": [
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "cilantro": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "coconut milk": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "cod fillet": {
+    "category": "protein",
+    "allergens": [
+      "fish"
+    ],
+    "animal_product": "fish"
+  },
+  "cooked rice": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "corn tortillas": {
+    "category": "bakery",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "cornstarch": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "cucumber": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "cumin": {
+    "category": "spices",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "dashi": {
+    "category": "pantry",
+    "allergens": [
+      "fish"
+    ],
+    "animal_product": "fish"
+  },
+  "dill": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "ditalini pasta": {
+    "category": "pantry",
+    "allergens": [
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "doubanjiang": {
+    "category": "pantry",
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "dried chilies": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "eggs": {
+    "category": "protein",
+    "allergens": [
+      "egg"
+    ],
+    "animal_product": "egg"
+  },
+  "elbow macaroni": {
+    "category": "pantry",
+    "allergens": [
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "enchilada sauce": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "feta": {
+    "category": "dairy",
+    "allergens": [
+      "dairy"
+    ],
+    "animal_product": "dairy"
+  },
+  "firm tofu": {
+    "category": "protein",
+    "allergens": [
+      "soy"
+    ],
+    "animal_product": "none"
+  },
+  "fish sauce": {
+    "category": "pantry",
+    "allergens": [
+      "fish"
+    ],
+    "animal_product": "fish"
+  },
+  "flank steak": {
+    "category": "protein",
+    "allergens": [],
+    "animal_product": "meat"
+  },
+  "flour": {
+    "category": "pantry",
+    "allergens": [
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "flour tortillas": {
+    "category": "bakery",
+    "allergens": [
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "frozen corn": {
+    "category": "frozen",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "frozen edamame": {
+    "category": "frozen",
+    "allergens": [
+      "soy"
+    ],
+    "animal_product": "none"
+  },
+  "frozen peas": {
+    "category": "frozen",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "frozen peas and carrots": {
+    "category": "frozen",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "frozen pork wontons": {
+    "category": "frozen",
+    "allergens": [
+      "gluten",
+      "egg",
+      "soy"
+    ],
+    "animal_product": "meat"
+  },
+  "garam masala": {
+    "category": "spices",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "garlic": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "ginger": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "granola": {
+    "category": "pantry",
+    "allergens": [
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "greek yogurt": {
+    "category": "dairy",
+    "allergens": [
+      "dairy"
+    ],
+    "animal_product": "dairy"
+  },
+  "green chili": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "green curry paste": {
+    "category": "pantry",
+    "allergens": [
+      "shellfish"
+    ],
+    "animal_product": "shellfish"
+  },
+  "green onion": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "ground beef": {
+    "category": "protein",
+    "allergens": [],
+    "animal_product": "meat"
+  },
+  "ground chicken": {
+    "category": "protein",
+    "allergens": [],
+    "animal_product": "meat"
+  },
+  "ground lamb": {
+    "category": "protein",
+    "allergens": [],
+    "animal_product": "meat"
+  },
+  "ground pork": {
+    "category": "protein",
+    "allergens": [],
+    "animal_product": "meat"
+  },
+  "ground turkey": {
+    "category": "protein",
+    "allergens": [],
+    "animal_product": "meat"
+  },
+  "heavy cream": {
+    "category": "dairy",
+    "allergens": [
+      "dairy"
+    ],
+    "animal_product": "dairy"
+  },
+  "honey": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "honey"
+  },
+  "hummus": {
+    "category": "pantry",
+    "allergens": [
+      "sesame"
+    ],
+    "animal_product": "none"
+  },
+  "japanese curry roux": {
+    "category": "pantry",
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "animal_product": "none"
+  },
+  "jasmine rice": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "kalamata olives": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "ketchup": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "kidney beans": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "lemon": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "lemongrass": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "lettuce": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "lime": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "linguine": {
+    "category": "pantry",
+    "allergens": [
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "lo mein noodles": {
+    "category": "pantry",
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "animal_product": "egg"
+  },
+  "maple syrup": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "marinara sauce": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "mayonnaise": {
+    "category": "pantry",
+    "allergens": [
+      "egg"
+    ],
+    "animal_product": "egg"
+  },
+  "milk": {
+    "category": "dairy",
+    "allergens": [
+      "dairy"
+    ],
+    "animal_product": "dairy"
+  },
+  "mint": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "mirin": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "mixed berries": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "mozzarella": {
+    "category": "dairy",
+    "allergens": [
+      "dairy"
+    ],
+    "animal_product": "dairy"
+  },
+  "mushrooms": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "naan": {
+    "category": "bakery",
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "animal_product": "dairy"
+  },
+  "nori": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "nutritional yeast": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "olive oil": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "onion": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "orange": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "oregano": {
+    "category": "spices",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "oyster sauce": {
+    "category": "pantry",
+    "allergens": [
+      "shellfish",
+      "soy",
+      "gluten"
+    ],
+    "animal_product": "shellfish"
+  },
+  "paneer": {
+    "category": "dairy",
+    "allergens": [
+      "dairy"
+    ],
+    "animal_product": "dairy"
+  },
+  "panko": {
+    "category": "pantry",
+    "allergens": [
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "paprika": {
+    "category": "spices",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "parmesan": {
+    "category": "dairy",
+    "allergens": [
+      "dairy"
+    ],
+    "animal_product": "dairy"
+  },
+  "parsley": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "peanut butter": {
+    "category": "pantry",
+    "allergens": [
+      "peanut"
+    ],
+    "animal_product": "none"
+  },
+  "peanuts": {
+    "category": "pantry",
+    "allergens": [
+      "peanut"
+    ],
+    "animal_product": "none"
+  },
+  "penne": {
+    "category": "pantry",
+    "allergens": [
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "pita bread": {
+    "category": "bakery",
+    "allergens": [
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "plain yogurt": {
+    "category": "dairy",
+    "allergens": [
+      "dairy"
+    ],
+    "animal_product": "dairy"
+  },
+  "pork loin": {
+    "category": "protein",
+    "allergens": [],
+    "animal_product": "meat"
+  },
+  "pork shoulder": {
+    "category": "protein",
+    "allergens": [],
+    "animal_product": "meat"
+  },
+  "potato": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "potato gnocchi": {
+    "category": "pantry",
+    "allergens": [
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "queso fresco": {
+    "category": "dairy",
+    "allergens": [
+      "dairy"
+    ],
+    "animal_product": "dairy"
+  },
+  "quinoa": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "red lentils": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "red onion": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "rice": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "rice noodles": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "rice vinegar": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "ricotta": {
+    "category": "dairy",
+    "allergens": [
+      "dairy"
+    ],
+    "animal_product": "dairy"
+  },
+  "salmon": {
+    "category": "protein",
+    "allergens": [
+      "fish"
+    ],
+    "animal_product": "fish"
+  },
+  "salsa": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "salsa verde": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "sesame oil": {
+    "category": "pantry",
+    "allergens": [
+      "sesame"
+    ],
+    "animal_product": "none"
+  },
+  "sesame seeds": {
+    "category": "pantry",
+    "allergens": [
+      "sesame"
+    ],
+    "animal_product": "none"
+  },
+  "shiitake mushrooms": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "short-grain rice": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "shrimp": {
+    "category": "protein",
+    "allergens": [
+      "shellfish"
+    ],
+    "animal_product": "shellfish"
+  },
+  "sichuan peppercorns": {
+    "category": "spices",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "sliced turkey": {
+    "category": "protein",
+    "allergens": [],
+    "animal_product": "meat"
+  },
+  "soba noodles": {
+    "category": "pantry",
+    "allergens": [
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "sour cream": {
+    "category": "dairy",
+    "allergens": [
+      "dairy"
+    ],
+    "animal_product": "dairy"
+  },
+  "sourdough bread": {
+    "category": "bakery",
+    "allergens": [
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "soy sauce": {
+    "category": "pantry",
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "spaghetti": {
+    "category": "pantry",
+    "allergens": [
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "spinach": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "sweet potato": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "tahini": {
+    "category": "pantry",
+    "allergens": [
+      "sesame"
+    ],
+    "animal_product": "none"
+  },
+  "tamarind paste": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "thai basil": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "thinly sliced beef": {
+    "category": "protein",
+    "allergens": [],
+    "animal_product": "meat"
+  },
+  "thyme": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "toasted rice powder": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "tomato": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "tomato paste": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "tortilla chips": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "turmeric": {
+    "category": "spices",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "vegan red curry paste": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "vegetable broth": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "vegetable oil": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "white miso": {
+    "category": "pantry",
+    "allergens": [
+      "soy"
+    ],
+    "animal_product": "none"
+  },
+  "white wine": {
+    "category": "pantry",
+    "allergens": [],
+    "animal_product": "none"
+  },
+  "yakisoba noodles": {
+    "category": "pantry",
+    "allergens": [
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "yakisoba sauce": {
+    "category": "pantry",
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "animal_product": "none"
+  },
+  "zucchini": {
+    "category": "produce",
+    "allergens": [],
+    "animal_product": "none"
+  }
+}

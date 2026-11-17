@@ -1,0 +1,5333 @@
+[
+  {
+    "id": "ita_spaghetti_pomodoro",
+    "name": "Spaghetti Pomodoro",
+    "cuisine": "Italian",
+    "meal_type": "dinner",
+    "prep_minutes": 5,
+    "cook_minutes": 15,
+    "total_minutes": 20,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "pantry_friendly"
+    ],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "calories_per_serving": 520,
+    "protein_g": 17,
+    "carbs_g": 82,
+    "fat_g": 14,
+    "estimated_cost_per_serving_usd": 2.0,
+    "ingredients": [
+      {
+        "name": "spaghetti",
+        "quantity": 1,
+        "unit": "lb",
+        "category": "pantry"
+      },
+      {
+        "name": "canned tomatoes",
+        "quantity": 28,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "garlic",
+        "quantity": 4,
+        "unit": "clove",
+        "category": "produce"
+      },
+      {
+        "name": "olive oil",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "basil",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "parmesan",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "dairy"
+      }
+    ],
+    "steps": [
+      "Boil pasta.",
+      "Simmer garlic, oil and tomatoes 12 min.",
+      "Toss with pasta, basil and parmesan."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "ita_chicken_cacciatore",
+    "name": "Chicken Cacciatore",
+    "cuisine": "Italian",
+    "meal_type": "dinner",
+    "prep_minutes": 15,
+    "cook_minutes": 45,
+    "total_minutes": 60,
+    "servings": 4,
+    "difficulty": "medium",
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "high_protein",
+      "meal_prep_friendly",
+      "freezer_friendly",
+      "one_pot",
+      "comfort_food"
+    ],
+    "allergens": [],
+    "calories_per_serving": 430,
+    "protein_g": 34,
+    "carbs_g": 18,
+    "fat_g": 24,
+    "estimated_cost_per_serving_usd": 3.5,
+    "ingredients": [
+      {
+        "name": "chicken thighs",
+        "quantity": 2,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "bell pepper",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "canned tomatoes",
+        "quantity": 28,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "garlic",
+        "quantity": 3,
+        "unit": "clove",
+        "category": "produce"
+      },
+      {
+        "name": "olive oil",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "oregano",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spices"
+      }
+    ],
+    "steps": [
+      "Brown chicken.",
+      "Saute onion and peppers.",
+      "Add tomatoes, return chicken, braise 35 min."
+    ],
+    "leftovers_good_for_days": 4
+  },
+  {
+    "id": "ita_mushroom_risotto",
+    "name": "Mushroom Risotto",
+    "cuisine": "Italian",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 35,
+    "total_minutes": 45,
+    "servings": 4,
+    "difficulty": "medium",
+    "tags": [
+      "vegetarian",
+      "gluten_free",
+      "comfort_food"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "calories_per_serving": 540,
+    "protein_g": 14,
+    "carbs_g": 78,
+    "fat_g": 18,
+    "estimated_cost_per_serving_usd": 3.0,
+    "ingredients": [
+      {
+        "name": "arborio rice",
+        "quantity": 1.5,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "mushrooms",
+        "quantity": 12,
+        "unit": "oz",
+        "category": "produce"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "vegetable broth",
+        "quantity": 6,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "white wine",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "parmesan",
+        "quantity": 0.75,
+        "unit": "cup",
+        "category": "dairy"
+      },
+      {
+        "name": "butter",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "dairy"
+      }
+    ],
+    "steps": [
+      "Saute mushrooms and onion.",
+      "Toast rice, add wine.",
+      "Add warm broth a ladle at a time, 25 min.",
+      "Finish with butter and parmesan."
+    ],
+    "leftovers_good_for_days": 2
+  },
+  {
+    "id": "ita_baked_ziti_spinach",
+    "name": "Spinach Baked Ziti",
+    "cuisine": "Italian",
+    "meal_type": "dinner",
+    "prep_minutes": 20,
+    "cook_minutes": 40,
+    "total_minutes": 60,
+    "servings": 6,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "meal_prep_friendly",
+      "freezer_friendly",
+      "comfort_food"
+    ],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "calories_per_serving": 560,
+    "protein_g": 26,
+    "carbs_g": 66,
+    "fat_g": 20,
+    "estimated_cost_per_serving_usd": 2.5,
+    "ingredients": [
+      {
+        "name": "penne",
+        "quantity": 1,
+        "unit": "lb",
+        "category": "pantry"
+      },
+      {
+        "name": "marinara sauce",
+        "quantity": 32,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "ricotta",
+        "quantity": 15,
+        "unit": "oz",
+        "category": "dairy"
+      },
+      {
+        "name": "mozzarella",
+        "quantity": 8,
+        "unit": "oz",
+        "category": "dairy"
+      },
+      {
+        "name": "spinach",
+        "quantity": 5,
+        "unit": "oz",
+        "category": "produce"
+      },
+      {
+        "name": "parmesan",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "dairy"
+      }
+    ],
+    "steps": [
+      "Par-cook pasta.",
+      "Mix with sauce, ricotta and spinach.",
+      "Top with mozzarella, bake 30 min at 375F."
+    ],
+    "leftovers_good_for_days": 4
+  },
+  {
+    "id": "ita_pesto_gnocchi",
+    "name": "15-Minute Pesto Gnocchi",
+    "cuisine": "Italian",
+    "meal_type": "dinner",
+    "prep_minutes": 5,
+    "cook_minutes": 10,
+    "total_minutes": 15,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "tree_nut"
+    ],
+    "calories_per_serving": 580,
+    "protein_g": 14,
+    "carbs_g": 80,
+    "fat_g": 22,
+    "estimated_cost_per_serving_usd": 3.5,
+    "ingredients": [
+      {
+        "name": "potato gnocchi",
+        "quantity": 16,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "basil pesto",
+        "quantity": 0.33,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "cherry tomatoes",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Pan-fry gnocchi until golden.",
+      "Add tomatoes until blistered.",
+      "Toss with pesto."
+    ],
+    "leftovers_good_for_days": 2
+  },
+  {
+    "id": "ita_lemon_shrimp_linguine",
+    "name": "Lemon Garlic Shrimp Linguine",
+    "cuisine": "Italian",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "total_minutes": 25,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "high_protein"
+    ],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "shellfish"
+    ],
+    "calories_per_serving": 560,
+    "protein_g": 32,
+    "carbs_g": 68,
+    "fat_g": 16,
+    "estimated_cost_per_serving_usd": 5.5,
+    "ingredients": [
+      {
+        "name": "linguine",
+        "quantity": 8,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "shrimp",
+        "quantity": 0.5,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "lemon",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "garlic",
+        "quantity": 3,
+        "unit": "clove",
+        "category": "produce"
+      },
+      {
+        "name": "butter",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "dairy"
+      },
+      {
+        "name": "parsley",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "chili flakes",
+        "quantity": 0.25,
+        "unit": "tsp",
+        "category": "spices"
+      }
+    ],
+    "steps": [
+      "Boil pasta.",
+      "Saute garlic and shrimp in butter 4 min.",
+      "Toss with pasta, lemon and parsley."
+    ],
+    "leftovers_good_for_days": 1
+  },
+  {
+    "id": "ita_minestrone",
+    "name": "Big-Batch Minestrone",
+    "cuisine": "Italian",
+    "meal_type": "dinner",
+    "prep_minutes": 15,
+    "cook_minutes": 35,
+    "total_minutes": 50,
+    "servings": 6,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy_free",
+      "meal_prep_friendly",
+      "freezer_friendly",
+      "one_pot",
+      "light"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "calories_per_serving": 310,
+    "protein_g": 12,
+    "carbs_g": 52,
+    "fat_g": 6,
+    "estimated_cost_per_serving_usd": 1.8,
+    "ingredients": [
+      {
+        "name": "vegetable broth",
+        "quantity": 6,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "cannellini beans",
+        "quantity": 30,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "zucchini",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "carrot",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "celery",
+        "quantity": 2,
+        "unit": "stalk",
+        "category": "produce"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "canned tomatoes",
+        "quantity": 14,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "ditalini pasta",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "olive oil",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Saute onion, carrot, celery.",
+      "Add broth, tomatoes, beans, simmer 20 min.",
+      "Add zucchini and pasta, 10 min more."
+    ],
+    "leftovers_good_for_days": 5
+  },
+  {
+    "id": "mex_black_bean_tacos",
+    "name": "Smashed Black Bean Tacos",
+    "cuisine": "Mexican",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 10,
+    "total_minutes": 20,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten_free",
+      "dairy_free",
+      "light",
+      "pantry_friendly"
+    ],
+    "allergens": [],
+    "calories_per_serving": 420,
+    "protein_g": 15,
+    "carbs_g": 60,
+    "fat_g": 14,
+    "estimated_cost_per_serving_usd": 2.0,
+    "ingredients": [
+      {
+        "name": "corn tortillas",
+        "quantity": 12,
+        "unit": "whole",
+        "category": "bakery"
+      },
+      {
+        "name": "black beans",
+        "quantity": 30,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "avocado",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "red onion",
+        "quantity": 0.5,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "lime",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "cilantro",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "cumin",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spices"
+      }
+    ],
+    "steps": [
+      "Warm beans with cumin and smash.",
+      "Char tortillas.",
+      "Fill with beans, avocado, onion, cilantro, lime."
+    ],
+    "leftovers_good_for_days": 2
+  },
+  {
+    "id": "mex_chicken_enchiladas",
+    "name": "Chicken Enchiladas",
+    "cuisine": "Mexican",
+    "meal_type": "dinner",
+    "prep_minutes": 20,
+    "cook_minutes": 30,
+    "total_minutes": 50,
+    "servings": 6,
+    "difficulty": "medium",
+    "tags": [
+      "gluten_free",
+      "high_protein",
+      "meal_prep_friendly",
+      "freezer_friendly",
+      "comfort_food"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "calories_per_serving": 540,
+    "protein_g": 36,
+    "carbs_g": 40,
+    "fat_g": 26,
+    "estimated_cost_per_serving_usd": 3.2,
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "quantity": 1.5,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "corn tortillas",
+        "quantity": 12,
+        "unit": "whole",
+        "category": "bakery"
+      },
+      {
+        "name": "enchilada sauce",
+        "quantity": 20,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "cheddar",
+        "quantity": 8,
+        "unit": "oz",
+        "category": "dairy"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "sour cream",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "dairy"
+      }
+    ],
+    "steps": [
+      "Poach and shred chicken.",
+      "Roll in tortillas with onion and cheese.",
+      "Cover with sauce, bake 25 min."
+    ],
+    "leftovers_good_for_days": 4
+  },
+  {
+    "id": "mex_carnitas_bowls",
+    "name": "Slow-Cooker Carnitas Bowls",
+    "cuisine": "Mexican",
+    "meal_type": "dinner",
+    "prep_minutes": 15,
+    "cook_minutes": 240,
+    "total_minutes": 255,
+    "servings": 8,
+    "difficulty": "medium",
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "high_protein",
+      "meal_prep_friendly",
+      "freezer_friendly"
+    ],
+    "allergens": [],
+    "calories_per_serving": 610,
+    "protein_g": 38,
+    "carbs_g": 55,
+    "fat_g": 24,
+    "estimated_cost_per_serving_usd": 3.0,
+    "ingredients": [
+      {
+        "name": "pork shoulder",
+        "quantity": 3,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "orange",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "garlic",
+        "quantity": 5,
+        "unit": "clove",
+        "category": "produce"
+      },
+      {
+        "name": "cumin",
+        "quantity": 2,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "oregano",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "rice",
+        "quantity": 2,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "black beans",
+        "quantity": 30,
+        "unit": "oz",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Rub pork with spices.",
+      "Slow cook with orange, onion, garlic 4 h.",
+      "Shred, crisp under broiler.",
+      "Serve over rice and beans."
+    ],
+    "leftovers_good_for_days": 4
+  },
+  {
+    "id": "mex_shrimp_fajitas",
+    "name": "Sheet-Pan Shrimp Fajitas",
+    "cuisine": "Mexican",
+    "meal_type": "dinner",
+    "prep_minutes": 15,
+    "cook_minutes": 12,
+    "total_minutes": 27,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "dairy_free",
+      "high_protein"
+    ],
+    "allergens": [
+      "gluten",
+      "shellfish"
+    ],
+    "calories_per_serving": 450,
+    "protein_g": 30,
+    "carbs_g": 45,
+    "fat_g": 15,
+    "estimated_cost_per_serving_usd": 5.0,
+    "ingredients": [
+      {
+        "name": "shrimp",
+        "quantity": 1.25,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "bell pepper",
+        "quantity": 3,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "flour tortillas",
+        "quantity": 8,
+        "unit": "whole",
+        "category": "bakery"
+      },
+      {
+        "name": "lime",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "chili powder",
+        "quantity": 2,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "olive oil",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Toss peppers and onion with oil and spice, roast 8 min.",
+      "Add shrimp, roast 4 min.",
+      "Serve in warm tortillas with lime."
+    ],
+    "leftovers_good_for_days": 1
+  },
+  {
+    "id": "mex_chili_sin_carne",
+    "name": "Three-Bean Chili Sin Carne",
+    "cuisine": "Mexican",
+    "meal_type": "dinner",
+    "prep_minutes": 15,
+    "cook_minutes": 40,
+    "total_minutes": 55,
+    "servings": 6,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten_free",
+      "dairy_free",
+      "meal_prep_friendly",
+      "freezer_friendly",
+      "one_pot",
+      "comfort_food",
+      "pantry_friendly"
+    ],
+    "allergens": [],
+    "calories_per_serving": 380,
+    "protein_g": 18,
+    "carbs_g": 62,
+    "fat_g": 6,
+    "estimated_cost_per_serving_usd": 1.6,
+    "ingredients": [
+      {
+        "name": "kidney beans",
+        "quantity": 30,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "black beans",
+        "quantity": 15,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "canned tomatoes",
+        "quantity": 28,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "bell pepper",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "chili powder",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "spices"
+      },
+      {
+        "name": "cumin",
+        "quantity": 2,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "vegetable broth",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Saute onion and pepper.",
+      "Add spices, beans, tomatoes, broth.",
+      "Simmer 35 min."
+    ],
+    "leftovers_good_for_days": 5
+  },
+  {
+    "id": "mex_turkey_taco_skillet",
+    "name": "Turkey Taco Rice Skillet",
+    "cuisine": "Mexican",
+    "meal_type": "dinner",
+    "prep_minutes": 5,
+    "cook_minutes": 20,
+    "total_minutes": 25,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "gluten_free",
+      "high_protein",
+      "one_pot"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "calories_per_serving": 520,
+    "protein_g": 34,
+    "carbs_g": 50,
+    "fat_g": 18,
+    "estimated_cost_per_serving_usd": 3.0,
+    "ingredients": [
+      {
+        "name": "ground turkey",
+        "quantity": 1,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "rice",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "salsa",
+        "quantity": 16,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "black beans",
+        "quantity": 15,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "cheddar",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "dairy"
+      },
+      {
+        "name": "chili powder",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "spices"
+      }
+    ],
+    "steps": [
+      "Brown turkey with spice.",
+      "Add rice, salsa, beans and 1.5 cups water; simmer 18 min.",
+      "Top with cheese."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "ind_chana_masala",
+    "name": "Chana Masala",
+    "cuisine": "Indian",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 30,
+    "total_minutes": 40,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten_free",
+      "dairy_free",
+      "meal_prep_friendly",
+      "freezer_friendly",
+      "pantry_friendly"
+    ],
+    "allergens": [],
+    "calories_per_serving": 450,
+    "protein_g": 15,
+    "carbs_g": 75,
+    "fat_g": 9,
+    "estimated_cost_per_serving_usd": 1.7,
+    "ingredients": [
+      {
+        "name": "chickpeas",
+        "quantity": 30,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "canned tomatoes",
+        "quantity": 14,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "ginger",
+        "quantity": 1,
+        "unit": "inch",
+        "category": "produce"
+      },
+      {
+        "name": "garlic",
+        "quantity": 3,
+        "unit": "clove",
+        "category": "produce"
+      },
+      {
+        "name": "garam masala",
+        "quantity": 2,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "cumin",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "vegetable oil",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "basmati rice",
+        "quantity": 1.5,
+        "unit": "cup",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Cook rice.",
+      "Fry onion, ginger, garlic, spices.",
+      "Add tomatoes and chickpeas, simmer 20 min."
+    ],
+    "leftovers_good_for_days": 4
+  },
+  {
+    "id": "ind_butter_chicken",
+    "name": "Butter Chicken",
+    "cuisine": "Indian",
+    "meal_type": "dinner",
+    "prep_minutes": 20,
+    "cook_minutes": 30,
+    "total_minutes": 50,
+    "servings": 4,
+    "difficulty": "medium",
+    "tags": [
+      "gluten_free",
+      "high_protein",
+      "freezer_friendly",
+      "comfort_food"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "calories_per_serving": 680,
+    "protein_g": 38,
+    "carbs_g": 55,
+    "fat_g": 32,
+    "estimated_cost_per_serving_usd": 4.0,
+    "ingredients": [
+      {
+        "name": "chicken thighs",
+        "quantity": 1.5,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "plain yogurt",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "dairy"
+      },
+      {
+        "name": "butter",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "dairy"
+      },
+      {
+        "name": "heavy cream",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "dairy"
+      },
+      {
+        "name": "canned tomatoes",
+        "quantity": 14,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "garam masala",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "spices"
+      },
+      {
+        "name": "ginger",
+        "quantity": 1,
+        "unit": "inch",
+        "category": "produce"
+      },
+      {
+        "name": "garlic",
+        "quantity": 4,
+        "unit": "clove",
+        "category": "produce"
+      },
+      {
+        "name": "basmati rice",
+        "quantity": 1.5,
+        "unit": "cup",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and spice.",
+      "Sear chicken.",
+      "Simmer tomatoes with butter and spices, add cream and chicken."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "ind_dal_tadka",
+    "name": "Red Lentil Dal Tadka",
+    "cuisine": "Indian",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 30,
+    "total_minutes": 40,
+    "servings": 6,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten_free",
+      "dairy_free",
+      "meal_prep_friendly",
+      "freezer_friendly",
+      "one_pot",
+      "light",
+      "pantry_friendly"
+    ],
+    "allergens": [],
+    "calories_per_serving": 340,
+    "protein_g": 18,
+    "carbs_g": 52,
+    "fat_g": 7,
+    "estimated_cost_per_serving_usd": 1.2,
+    "ingredients": [
+      {
+        "name": "red lentils",
+        "quantity": 2,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "canned tomatoes",
+        "quantity": 14,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "turmeric",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "cumin",
+        "quantity": 2,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "garlic",
+        "quantity": 4,
+        "unit": "clove",
+        "category": "produce"
+      },
+      {
+        "name": "vegetable oil",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Simmer lentils with turmeric 20 min.",
+      "Fry cumin, garlic, onion, tomato.",
+      "Pour tadka over dal."
+    ],
+    "leftovers_good_for_days": 5
+  },
+  {
+    "id": "ind_palak_paneer",
+    "name": "Palak Paneer",
+    "cuisine": "Indian",
+    "meal_type": "dinner",
+    "prep_minutes": 15,
+    "cook_minutes": 25,
+    "total_minutes": 40,
+    "servings": 4,
+    "difficulty": "medium",
+    "tags": [
+      "vegetarian",
+      "gluten_free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "calories_per_serving": 480,
+    "protein_g": 22,
+    "carbs_g": 14,
+    "fat_g": 36,
+    "estimated_cost_per_serving_usd": 3.8,
+    "ingredients": [
+      {
+        "name": "paneer",
+        "quantity": 14,
+        "unit": "oz",
+        "category": "dairy"
+      },
+      {
+        "name": "spinach",
+        "quantity": 16,
+        "unit": "oz",
+        "category": "produce"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "garlic",
+        "quantity": 3,
+        "unit": "clove",
+        "category": "produce"
+      },
+      {
+        "name": "ginger",
+        "quantity": 1,
+        "unit": "inch",
+        "category": "produce"
+      },
+      {
+        "name": "heavy cream",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "dairy"
+      },
+      {
+        "name": "garam masala",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spices"
+      }
+    ],
+    "steps": [
+      "Blanch and puree spinach.",
+      "Fry aromatics, add puree and spices.",
+      "Add paneer and cream, simmer 5 min."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "ind_tikka_sheetpan",
+    "name": "Sheet-Pan Chicken Tikka",
+    "cuisine": "Indian",
+    "meal_type": "dinner",
+    "prep_minutes": 15,
+    "cook_minutes": 25,
+    "total_minutes": 40,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "gluten_free",
+      "high_protein",
+      "light"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "calories_per_serving": 380,
+    "protein_g": 40,
+    "carbs_g": 14,
+    "fat_g": 16,
+    "estimated_cost_per_serving_usd": 3.5,
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "quantity": 1.5,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "plain yogurt",
+        "quantity": 0.75,
+        "unit": "cup",
+        "category": "dairy"
+      },
+      {
+        "name": "garam masala",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "spices"
+      },
+      {
+        "name": "bell pepper",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "red onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "lemon",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Marinate chicken in yogurt, spice and lemon.",
+      "Roast with peppers and onion at 450F for 25 min."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "ind_veg_biryani",
+    "name": "Vegetable Biryani",
+    "cuisine": "Indian",
+    "meal_type": "dinner",
+    "prep_minutes": 20,
+    "cook_minutes": 40,
+    "total_minutes": 60,
+    "servings": 6,
+    "difficulty": "medium",
+    "tags": [
+      "vegetarian",
+      "gluten_free",
+      "meal_prep_friendly"
+    ],
+    "allergens": [
+      "dairy",
+      "tree_nut"
+    ],
+    "calories_per_serving": 520,
+    "protein_g": 13,
+    "carbs_g": 82,
+    "fat_g": 15,
+    "estimated_cost_per_serving_usd": 2.4,
+    "ingredients": [
+      {
+        "name": "basmati rice",
+        "quantity": 2,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "cauliflower",
+        "quantity": 1,
+        "unit": "head",
+        "category": "produce"
+      },
+      {
+        "name": "carrot",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "frozen peas",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "frozen"
+      },
+      {
+        "name": "onion",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "cashews",
+        "quantity": 0.33,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "garam masala",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "spices"
+      },
+      {
+        "name": "plain yogurt",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "dairy"
+      },
+      {
+        "name": "vegetable oil",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Fry onions until golden.",
+      "Cook vegetables with spices and yogurt.",
+      "Layer with par-cooked rice, steam 20 min.",
+      "Top with cashews."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "tha_green_curry_chicken",
+    "name": "Thai Green Curry with Chicken",
+    "cuisine": "Thai",
+    "meal_type": "dinner",
+    "prep_minutes": 15,
+    "cook_minutes": 20,
+    "total_minutes": 35,
+    "servings": 4,
+    "difficulty": "medium",
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "high_protein"
+    ],
+    "allergens": [
+      "fish",
+      "shellfish"
+    ],
+    "calories_per_serving": 620,
+    "protein_g": 30,
+    "carbs_g": 50,
+    "fat_g": 34,
+    "estimated_cost_per_serving_usd": 3.8,
+    "ingredients": [
+      {
+        "name": "chicken thighs",
+        "quantity": 1.5,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "green curry paste",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "coconut milk",
+        "quantity": 27,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "bamboo shoots",
+        "quantity": 8,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "thai basil",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "fish sauce",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "jasmine rice",
+        "quantity": 1.5,
+        "unit": "cup",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Fry curry paste in coconut cream.",
+      "Add chicken and coconut milk, simmer 12 min.",
+      "Add bamboo, fish sauce, basil. Serve with rice."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "tha_pad_thai_tofu",
+    "name": "Tofu Pad Thai",
+    "cuisine": "Thai",
+    "meal_type": "dinner",
+    "prep_minutes": 20,
+    "cook_minutes": 15,
+    "total_minutes": 35,
+    "servings": 2,
+    "difficulty": "medium",
+    "tags": [
+      "gluten_free",
+      "dairy_free"
+    ],
+    "allergens": [
+      "egg",
+      "fish",
+      "peanut",
+      "soy"
+    ],
+    "calories_per_serving": 610,
+    "protein_g": 24,
+    "carbs_g": 74,
+    "fat_g": 24,
+    "estimated_cost_per_serving_usd": 3.0,
+    "ingredients": [
+      {
+        "name": "rice noodles",
+        "quantity": 8,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "firm tofu",
+        "quantity": 7,
+        "unit": "oz",
+        "category": "protein"
+      },
+      {
+        "name": "eggs",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "protein"
+      },
+      {
+        "name": "peanuts",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "bean sprouts",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "tamarind paste",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "fish sauce",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "green onion",
+        "quantity": 3,
+        "unit": "whole",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Soak noodles.",
+      "Fry tofu, scramble eggs.",
+      "Toss noodles with tamarind and fish sauce.",
+      "Top with sprouts, peanuts, green onion."
+    ],
+    "leftovers_good_for_days": 1
+  },
+  {
+    "id": "tha_basil_chicken",
+    "name": "Thai Basil Chicken (Pad Krapow)",
+    "cuisine": "Thai",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 10,
+    "total_minutes": 20,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "dairy_free",
+      "high_protein"
+    ],
+    "allergens": [
+      "egg",
+      "gluten",
+      "shellfish",
+      "soy"
+    ],
+    "calories_per_serving": 560,
+    "protein_g": 34,
+    "carbs_g": 58,
+    "fat_g": 18,
+    "estimated_cost_per_serving_usd": 3.2,
+    "ingredients": [
+      {
+        "name": "ground chicken",
+        "quantity": 0.75,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "thai basil",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "garlic",
+        "quantity": 4,
+        "unit": "clove",
+        "category": "produce"
+      },
+      {
+        "name": "chili",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "oyster sauce",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "jasmine rice",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "eggs",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "protein"
+      }
+    ],
+    "steps": [
+      "Cook rice.",
+      "Stir-fry garlic, chili, chicken.",
+      "Add sauces and basil.",
+      "Serve with a fried egg."
+    ],
+    "leftovers_good_for_days": 2
+  },
+  {
+    "id": "tha_coconut_veg_curry",
+    "name": "Coconut Sweet Potato Curry",
+    "cuisine": "Thai",
+    "meal_type": "dinner",
+    "prep_minutes": 15,
+    "cook_minutes": 20,
+    "total_minutes": 35,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten_free",
+      "dairy_free",
+      "meal_prep_friendly",
+      "freezer_friendly",
+      "one_pot"
+    ],
+    "allergens": [],
+    "calories_per_serving": 540,
+    "protein_g": 12,
+    "carbs_g": 72,
+    "fat_g": 22,
+    "estimated_cost_per_serving_usd": 2.5,
+    "ingredients": [
+      {
+        "name": "coconut milk",
+        "quantity": 13.5,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "vegan red curry paste",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "sweet potato",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "chickpeas",
+        "quantity": 15,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "spinach",
+        "quantity": 5,
+        "unit": "oz",
+        "category": "produce"
+      },
+      {
+        "name": "lime",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "jasmine rice",
+        "quantity": 1.5,
+        "unit": "cup",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Fry paste, add coconut milk.",
+      "Simmer sweet potato and chickpeas 15 min.",
+      "Wilt spinach, finish with lime."
+    ],
+    "leftovers_good_for_days": 4
+  },
+  {
+    "id": "tha_larb_lettuce_wraps",
+    "name": "Pork Larb Lettuce Wraps",
+    "cuisine": "Thai",
+    "meal_type": "dinner",
+    "prep_minutes": 15,
+    "cook_minutes": 10,
+    "total_minutes": 25,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "high_protein",
+      "light"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "calories_per_serving": 320,
+    "protein_g": 26,
+    "carbs_g": 10,
+    "fat_g": 20,
+    "estimated_cost_per_serving_usd": 3.0,
+    "ingredients": [
+      {
+        "name": "ground pork",
+        "quantity": 1,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "lime",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "fish sauce",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "red onion",
+        "quantity": 0.5,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "mint",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "butter lettuce",
+        "quantity": 1,
+        "unit": "head",
+        "category": "produce"
+      },
+      {
+        "name": "toasted rice powder",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Cook pork.",
+      "Dress with lime, fish sauce, onion, mint, rice powder.",
+      "Spoon into lettuce cups."
+    ],
+    "leftovers_good_for_days": 2
+  },
+  {
+    "id": "tha_tom_kha_gai",
+    "name": "Tom Kha Gai",
+    "cuisine": "Thai",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 20,
+    "total_minutes": 30,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "one_pot",
+      "light"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "calories_per_serving": 380,
+    "protein_g": 24,
+    "carbs_g": 10,
+    "fat_g": 28,
+    "estimated_cost_per_serving_usd": 3.2,
+    "ingredients": [
+      {
+        "name": "coconut milk",
+        "quantity": 27,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "chicken broth",
+        "quantity": 2,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "chicken breast",
+        "quantity": 1,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "mushrooms",
+        "quantity": 8,
+        "unit": "oz",
+        "category": "produce"
+      },
+      {
+        "name": "lemongrass",
+        "quantity": 2,
+        "unit": "stalk",
+        "category": "produce"
+      },
+      {
+        "name": "lime",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "fish sauce",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Simmer broth, coconut milk, lemongrass.",
+      "Add sliced chicken and mushrooms, 10 min.",
+      "Season with fish sauce and lime."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "jpn_chicken_teriyaki",
+    "name": "Chicken Teriyaki Rice Bowls",
+    "cuisine": "Japanese",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "total_minutes": 25,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "dairy_free",
+      "high_protein",
+      "meal_prep_friendly"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "calories_per_serving": 560,
+    "protein_g": 36,
+    "carbs_g": 62,
+    "fat_g": 16,
+    "estimated_cost_per_serving_usd": 3.0,
+    "ingredients": [
+      {
+        "name": "chicken thighs",
+        "quantity": 1.5,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "mirin",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "brown sugar",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "ginger",
+        "quantity": 1,
+        "unit": "inch",
+        "category": "produce"
+      },
+      {
+        "name": "short-grain rice",
+        "quantity": 1.5,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "broccoli",
+        "quantity": 1,
+        "unit": "head",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Cook rice.",
+      "Sear chicken, glaze with soy, mirin, sugar, ginger.",
+      "Steam broccoli, assemble bowls."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "jpn_miso_salmon",
+    "name": "Miso-Glazed Salmon",
+    "cuisine": "Japanese",
+    "meal_type": "dinner",
+    "prep_minutes": 5,
+    "cook_minutes": 15,
+    "total_minutes": 20,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "high_protein"
+    ],
+    "allergens": [
+      "fish",
+      "soy"
+    ],
+    "calories_per_serving": 540,
+    "protein_g": 36,
+    "carbs_g": 50,
+    "fat_g": 20,
+    "estimated_cost_per_serving_usd": 6.5,
+    "ingredients": [
+      {
+        "name": "salmon",
+        "quantity": 0.75,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "white miso",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "mirin",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "short-grain rice",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "bok choy",
+        "quantity": 2,
+        "unit": "head",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Brush salmon with miso-mirin.",
+      "Broil 8-10 min.",
+      "Serve with rice and sauteed bok choy."
+    ],
+    "leftovers_good_for_days": 1
+  },
+  {
+    "id": "jpn_veg_yakisoba",
+    "name": "Vegetable Yakisoba",
+    "cuisine": "Japanese",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 10,
+    "total_minutes": 20,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy_free"
+    ],
+    "allergens": [
+      "gluten",
+      "sesame",
+      "soy"
+    ],
+    "calories_per_serving": 480,
+    "protein_g": 12,
+    "carbs_g": 78,
+    "fat_g": 14,
+    "estimated_cost_per_serving_usd": 2.5,
+    "ingredients": [
+      {
+        "name": "yakisoba noodles",
+        "quantity": 12,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "cabbage",
+        "quantity": 0.25,
+        "unit": "head",
+        "category": "produce"
+      },
+      {
+        "name": "carrot",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "shiitake mushrooms",
+        "quantity": 4,
+        "unit": "oz",
+        "category": "produce"
+      },
+      {
+        "name": "yakisoba sauce",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "sesame oil",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Stir-fry vegetables in sesame oil.",
+      "Add noodles and sauce, toss 3 min."
+    ],
+    "leftovers_good_for_days": 2
+  },
+  {
+    "id": "jpn_katsu_curry",
+    "name": "Pork Katsu Curry",
+    "cuisine": "Japanese",
+    "meal_type": "dinner",
+    "prep_minutes": 20,
+    "cook_minutes": 30,
+    "total_minutes": 50,
+    "servings": 4,
+    "difficulty": "hard",
+    "tags": [
+      "dairy_free",
+      "high_protein",
+      "comfort_food"
+    ],
+    "allergens": [
+      "egg",
+      "gluten",
+      "soy"
+    ],
+    "calories_per_serving": 820,
+    "protein_g": 34,
+    "carbs_g": 92,
+    "fat_g": 34,
+    "estimated_cost_per_serving_usd": 3.6,
+    "ingredients": [
+      {
+        "name": "pork loin",
+        "quantity": 1,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "panko",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "eggs",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "protein"
+      },
+      {
+        "name": "flour",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "japanese curry roux",
+        "quantity": 4,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "potato",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "carrot",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "short-grain rice",
+        "quantity": 1.5,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "vegetable oil",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Simmer onion, potato, carrot 15 min; melt in roux.",
+      "Bread pork: flour, egg, panko.",
+      "Shallow-fry 4 min per side.",
+      "Slice over rice with curry."
+    ],
+    "leftovers_good_for_days": 2
+  },
+  {
+    "id": "jpn_gyudon",
+    "name": "Gyudon (Beef & Onion Bowl)",
+    "cuisine": "Japanese",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "total_minutes": 25,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "dairy_free",
+      "high_protein"
+    ],
+    "allergens": [
+      "fish",
+      "gluten",
+      "soy"
+    ],
+    "calories_per_serving": 620,
+    "protein_g": 30,
+    "carbs_g": 70,
+    "fat_g": 22,
+    "estimated_cost_per_serving_usd": 4.2,
+    "ingredients": [
+      {
+        "name": "thinly sliced beef",
+        "quantity": 1,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "onion",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "mirin",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "dashi",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "short-grain rice",
+        "quantity": 1.5,
+        "unit": "cup",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Simmer onion in dashi, soy, mirin.",
+      "Add beef, cook 2 min.",
+      "Spoon over rice."
+    ],
+    "leftovers_good_for_days": 2
+  },
+  {
+    "id": "jpn_tofu_edamame_bowl",
+    "name": "Crispy Tofu & Edamame Bowl",
+    "cuisine": "Japanese",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "total_minutes": 25,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy_free",
+      "meal_prep_friendly"
+    ],
+    "allergens": [
+      "gluten",
+      "sesame",
+      "soy"
+    ],
+    "calories_per_serving": 520,
+    "protein_g": 26,
+    "carbs_g": 64,
+    "fat_g": 16,
+    "estimated_cost_per_serving_usd": 2.2,
+    "ingredients": [
+      {
+        "name": "firm tofu",
+        "quantity": 14,
+        "unit": "oz",
+        "category": "protein"
+      },
+      {
+        "name": "frozen edamame",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "frozen"
+      },
+      {
+        "name": "short-grain rice",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "rice vinegar",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "sesame seeds",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "green onion",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Cook rice.",
+      "Pan-crisp tofu cubes.",
+      "Toss with soy and vinegar, top with edamame and sesame."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "med_greek_chicken_sheetpan",
+    "name": "Greek Lemon Chicken & Potatoes",
+    "cuisine": "Mediterranean",
+    "meal_type": "dinner",
+    "prep_minutes": 15,
+    "cook_minutes": 35,
+    "total_minutes": 50,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "gluten_free",
+      "high_protein",
+      "meal_prep_friendly"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "calories_per_serving": 560,
+    "protein_g": 36,
+    "carbs_g": 34,
+    "fat_g": 30,
+    "estimated_cost_per_serving_usd": 3.4,
+    "ingredients": [
+      {
+        "name": "chicken thighs",
+        "quantity": 2,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "potato",
+        "quantity": 1.5,
+        "unit": "lb",
+        "category": "produce"
+      },
+      {
+        "name": "red onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "lemon",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "oregano",
+        "quantity": 2,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "olive oil",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "feta",
+        "quantity": 4,
+        "unit": "oz",
+        "category": "dairy"
+      }
+    ],
+    "steps": [
+      "Toss everything but feta with lemon and oil.",
+      "Roast 35 min at 425F.",
+      "Crumble feta on top."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "med_shakshuka",
+    "name": "Shakshuka",
+    "cuisine": "Mediterranean",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 20,
+    "total_minutes": 30,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "one_pot",
+      "pantry_friendly"
+    ],
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "calories_per_serving": 420,
+    "protein_g": 20,
+    "carbs_g": 38,
+    "fat_g": 20,
+    "estimated_cost_per_serving_usd": 2.0,
+    "ingredients": [
+      {
+        "name": "eggs",
+        "quantity": 4,
+        "unit": "whole",
+        "category": "protein"
+      },
+      {
+        "name": "canned tomatoes",
+        "quantity": 28,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "bell pepper",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "cumin",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "paprika",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "feta",
+        "quantity": 2,
+        "unit": "oz",
+        "category": "dairy"
+      },
+      {
+        "name": "pita bread",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "bakery"
+      }
+    ],
+    "steps": [
+      "Saute onion and pepper with spices.",
+      "Add tomatoes, simmer 10 min.",
+      "Crack in eggs, cover 6 min.",
+      "Top with feta; serve with pita."
+    ],
+    "leftovers_good_for_days": 1
+  },
+  {
+    "id": "med_falafel_bowls",
+    "name": "Baked Falafel Bowls",
+    "cuisine": "Mediterranean",
+    "meal_type": "dinner",
+    "prep_minutes": 20,
+    "cook_minutes": 25,
+    "total_minutes": 45,
+    "servings": 4,
+    "difficulty": "medium",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten_free",
+      "dairy_free",
+      "meal_prep_friendly"
+    ],
+    "allergens": [
+      "sesame"
+    ],
+    "calories_per_serving": 560,
+    "protein_g": 20,
+    "carbs_g": 70,
+    "fat_g": 22,
+    "estimated_cost_per_serving_usd": 2.6,
+    "ingredients": [
+      {
+        "name": "chickpeas",
+        "quantity": 30,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "parsley",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "onion",
+        "quantity": 0.5,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "garlic",
+        "quantity": 3,
+        "unit": "clove",
+        "category": "produce"
+      },
+      {
+        "name": "cumin",
+        "quantity": 2,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "chickpea flour",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "tahini",
+        "quantity": 0.33,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "cucumber",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "tomato",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "quinoa",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Pulse chickpeas, herbs, onion, garlic, spice, flour.",
+      "Form patties, bake 25 min.",
+      "Cook quinoa.",
+      "Assemble with veg and tahini."
+    ],
+    "leftovers_good_for_days": 4
+  },
+  {
+    "id": "med_lemon_herb_salmon",
+    "name": "Lemon-Dill Salmon & Asparagus",
+    "cuisine": "Mediterranean",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "total_minutes": 25,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "high_protein",
+      "light"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "calories_per_serving": 480,
+    "protein_g": 38,
+    "carbs_g": 30,
+    "fat_g": 22,
+    "estimated_cost_per_serving_usd": 7.0,
+    "ingredients": [
+      {
+        "name": "salmon",
+        "quantity": 0.75,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "lemon",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "dill",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "produce"
+      },
+      {
+        "name": "olive oil",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "asparagus",
+        "quantity": 1,
+        "unit": "bunch",
+        "category": "produce"
+      },
+      {
+        "name": "quinoa",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Cook quinoa.",
+      "Roast salmon and asparagus with lemon, dill, oil 12-15 min at 425F."
+    ],
+    "leftovers_good_for_days": 1
+  },
+  {
+    "id": "med_lentil_soup",
+    "name": "Lemony Lentil Soup",
+    "cuisine": "Mediterranean",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 35,
+    "total_minutes": 45,
+    "servings": 6,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten_free",
+      "dairy_free",
+      "meal_prep_friendly",
+      "freezer_friendly",
+      "one_pot",
+      "light",
+      "pantry_friendly"
+    ],
+    "allergens": [],
+    "calories_per_serving": 300,
+    "protein_g": 18,
+    "carbs_g": 48,
+    "fat_g": 4,
+    "estimated_cost_per_serving_usd": 1.3,
+    "ingredients": [
+      {
+        "name": "brown lentils",
+        "quantity": 1.5,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "carrot",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "celery",
+        "quantity": 2,
+        "unit": "stalk",
+        "category": "produce"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "canned tomatoes",
+        "quantity": 14,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "vegetable broth",
+        "quantity": 6,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "cumin",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "lemon",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Saute vegetables.",
+      "Add lentils, tomatoes, broth, cumin; simmer 30 min.",
+      "Finish with lemon."
+    ],
+    "leftovers_good_for_days": 5
+  },
+  {
+    "id": "med_lamb_kofta",
+    "name": "Lamb Kofta with Tzatziki",
+    "cuisine": "Mediterranean",
+    "meal_type": "dinner",
+    "prep_minutes": 20,
+    "cook_minutes": 15,
+    "total_minutes": 35,
+    "servings": 4,
+    "difficulty": "medium",
+    "tags": [
+      "high_protein"
+    ],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "calories_per_serving": 620,
+    "protein_g": 32,
+    "carbs_g": 36,
+    "fat_g": 36,
+    "estimated_cost_per_serving_usd": 5.0,
+    "ingredients": [
+      {
+        "name": "ground lamb",
+        "quantity": 1.25,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "onion",
+        "quantity": 0.5,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "parsley",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "cumin",
+        "quantity": 2,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "pita bread",
+        "quantity": 4,
+        "unit": "whole",
+        "category": "bakery"
+      },
+      {
+        "name": "plain yogurt",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "dairy"
+      },
+      {
+        "name": "cucumber",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Mix lamb with grated onion, parsley, cumin; shape on skewers.",
+      "Grill or broil 10-12 min.",
+      "Make tzatziki; serve in pita."
+    ],
+    "leftovers_good_for_days": 2
+  },
+  {
+    "id": "ame_mac_and_cheese",
+    "name": "Stovetop Mac & Cheese",
+    "cuisine": "American comfort",
+    "meal_type": "dinner",
+    "prep_minutes": 5,
+    "cook_minutes": 20,
+    "total_minutes": 25,
+    "servings": 6,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "comfort_food",
+      "pantry_friendly"
+    ],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "calories_per_serving": 640,
+    "protein_g": 24,
+    "carbs_g": 66,
+    "fat_g": 30,
+    "estimated_cost_per_serving_usd": 1.8,
+    "ingredients": [
+      {
+        "name": "elbow macaroni",
+        "quantity": 1,
+        "unit": "lb",
+        "category": "pantry"
+      },
+      {
+        "name": "cheddar",
+        "quantity": 12,
+        "unit": "oz",
+        "category": "dairy"
+      },
+      {
+        "name": "milk",
+        "quantity": 2,
+        "unit": "cup",
+        "category": "dairy"
+      },
+      {
+        "name": "butter",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "dairy"
+      },
+      {
+        "name": "flour",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Boil pasta.",
+      "Make roux, whisk in milk, melt cheese.",
+      "Fold in pasta."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "ame_turkey_chili",
+    "name": "Turkey & Bean Chili",
+    "cuisine": "American comfort",
+    "meal_type": "dinner",
+    "prep_minutes": 15,
+    "cook_minutes": 45,
+    "total_minutes": 60,
+    "servings": 8,
+    "difficulty": "easy",
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "high_protein",
+      "meal_prep_friendly",
+      "freezer_friendly",
+      "one_pot",
+      "comfort_food"
+    ],
+    "allergens": [],
+    "calories_per_serving": 390,
+    "protein_g": 32,
+    "carbs_g": 34,
+    "fat_g": 12,
+    "estimated_cost_per_serving_usd": 2.2,
+    "ingredients": [
+      {
+        "name": "ground turkey",
+        "quantity": 2,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "kidney beans",
+        "quantity": 30,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "canned tomatoes",
+        "quantity": 28,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "bell pepper",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "chili powder",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "spices"
+      },
+      {
+        "name": "cumin",
+        "quantity": 2,
+        "unit": "tsp",
+        "category": "spices"
+      }
+    ],
+    "steps": [
+      "Brown turkey with onion and pepper.",
+      "Add spices, beans, tomatoes.",
+      "Simmer 40 min."
+    ],
+    "leftovers_good_for_days": 5
+  },
+  {
+    "id": "ame_meatloaf_mash",
+    "name": "Meatloaf & Mashed Potatoes",
+    "cuisine": "American comfort",
+    "meal_type": "dinner",
+    "prep_minutes": 20,
+    "cook_minutes": 60,
+    "total_minutes": 80,
+    "servings": 6,
+    "difficulty": "medium",
+    "tags": [
+      "high_protein",
+      "freezer_friendly",
+      "comfort_food"
+    ],
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "calories_per_serving": 620,
+    "protein_g": 34,
+    "carbs_g": 40,
+    "fat_g": 34,
+    "estimated_cost_per_serving_usd": 3.0,
+    "ingredients": [
+      {
+        "name": "ground beef",
+        "quantity": 2,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "breadcrumbs",
+        "quantity": 0.75,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "eggs",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "protein"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "ketchup",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "milk",
+        "quantity": 0.75,
+        "unit": "cup",
+        "category": "dairy"
+      },
+      {
+        "name": "potato",
+        "quantity": 2.5,
+        "unit": "lb",
+        "category": "produce"
+      },
+      {
+        "name": "butter",
+        "quantity": 4,
+        "unit": "tbsp",
+        "category": "dairy"
+      }
+    ],
+    "steps": [
+      "Mix beef, crumbs, egg, onion, half the milk; shape loaf.",
+      "Glaze with ketchup, bake 60 min at 350F.",
+      "Boil and mash potatoes with butter and milk."
+    ],
+    "leftovers_good_for_days": 4
+  },
+  {
+    "id": "ame_bbq_chicken_sheetpan",
+    "name": "BBQ Chicken & Sweet Potato Sheet Pan",
+    "cuisine": "American comfort",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 35,
+    "total_minutes": 45,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "high_protein"
+    ],
+    "allergens": [],
+    "calories_per_serving": 520,
+    "protein_g": 36,
+    "carbs_g": 46,
+    "fat_g": 20,
+    "estimated_cost_per_serving_usd": 2.6,
+    "ingredients": [
+      {
+        "name": "chicken drumsticks",
+        "quantity": 2.5,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "bbq sauce",
+        "quantity": 0.75,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "sweet potato",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "broccoli",
+        "quantity": 1,
+        "unit": "head",
+        "category": "produce"
+      },
+      {
+        "name": "olive oil",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Roast drumsticks and sweet potato 20 min at 425F.",
+      "Brush with BBQ sauce, add broccoli, roast 15 min."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "ame_pot_roast",
+    "name": "Sunday Pot Roast",
+    "cuisine": "American comfort",
+    "meal_type": "dinner",
+    "prep_minutes": 20,
+    "cook_minutes": 180,
+    "total_minutes": 200,
+    "servings": 8,
+    "difficulty": "medium",
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "high_protein",
+      "meal_prep_friendly",
+      "freezer_friendly",
+      "one_pot",
+      "comfort_food"
+    ],
+    "allergens": [],
+    "calories_per_serving": 520,
+    "protein_g": 42,
+    "carbs_g": 28,
+    "fat_g": 24,
+    "estimated_cost_per_serving_usd": 4.5,
+    "ingredients": [
+      {
+        "name": "beef chuck roast",
+        "quantity": 3.5,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "potato",
+        "quantity": 2,
+        "unit": "lb",
+        "category": "produce"
+      },
+      {
+        "name": "carrot",
+        "quantity": 4,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "onion",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "beef broth",
+        "quantity": 3,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "tomato paste",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "thyme",
+        "quantity": 4,
+        "unit": "sprig",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Sear roast.",
+      "Add broth, paste, thyme; braise covered 2 h at 325F.",
+      "Add vegetables, 1 h more."
+    ],
+    "leftovers_good_for_days": 4
+  },
+  {
+    "id": "ame_grilled_cheese_soup",
+    "name": "Grilled Cheese & Tomato Soup",
+    "cuisine": "American comfort",
+    "meal_type": "dinner",
+    "prep_minutes": 5,
+    "cook_minutes": 15,
+    "total_minutes": 20,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "comfort_food",
+      "pantry_friendly"
+    ],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "calories_per_serving": 610,
+    "protein_g": 22,
+    "carbs_g": 60,
+    "fat_g": 32,
+    "estimated_cost_per_serving_usd": 2.2,
+    "ingredients": [
+      {
+        "name": "sourdough bread",
+        "quantity": 4,
+        "unit": "slice",
+        "category": "bakery"
+      },
+      {
+        "name": "cheddar",
+        "quantity": 4,
+        "unit": "oz",
+        "category": "dairy"
+      },
+      {
+        "name": "butter",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "dairy"
+      },
+      {
+        "name": "canned tomatoes",
+        "quantity": 28,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "vegetable broth",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "onion",
+        "quantity": 0.5,
+        "unit": "whole",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Simmer onion, tomatoes, broth 10 min; blend.",
+      "Griddle buttered cheese sandwiches."
+    ],
+    "leftovers_good_for_days": 1
+  },
+  {
+    "id": "chn_egg_fried_rice",
+    "name": "10-Minute Egg Fried Rice",
+    "cuisine": "Chinese",
+    "meal_type": "dinner",
+    "prep_minutes": 5,
+    "cook_minutes": 10,
+    "total_minutes": 15,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "dairy_free",
+      "pantry_friendly"
+    ],
+    "allergens": [
+      "egg",
+      "gluten",
+      "sesame",
+      "soy"
+    ],
+    "calories_per_serving": 480,
+    "protein_g": 16,
+    "carbs_g": 66,
+    "fat_g": 16,
+    "estimated_cost_per_serving_usd": 1.3,
+    "ingredients": [
+      {
+        "name": "cooked rice",
+        "quantity": 3,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "eggs",
+        "quantity": 3,
+        "unit": "whole",
+        "category": "protein"
+      },
+      {
+        "name": "frozen peas and carrots",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "frozen"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "green onion",
+        "quantity": 3,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "sesame oil",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Scramble eggs, set aside.",
+      "Fry rice and vegetables on high heat.",
+      "Add eggs, soy, sesame oil, green onion."
+    ],
+    "leftovers_good_for_days": 2
+  },
+  {
+    "id": "chn_kung_pao_chicken",
+    "name": "Kung Pao Chicken",
+    "cuisine": "Chinese",
+    "meal_type": "dinner",
+    "prep_minutes": 15,
+    "cook_minutes": 10,
+    "total_minutes": 25,
+    "servings": 4,
+    "difficulty": "medium",
+    "tags": [
+      "dairy_free",
+      "high_protein"
+    ],
+    "allergens": [
+      "gluten",
+      "peanut",
+      "soy"
+    ],
+    "calories_per_serving": 560,
+    "protein_g": 36,
+    "carbs_g": 50,
+    "fat_g": 22,
+    "estimated_cost_per_serving_usd": 3.2,
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "quantity": 1.5,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "peanuts",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "dried chilies",
+        "quantity": 8,
+        "unit": "whole",
+        "category": "pantry"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "rice vinegar",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "garlic",
+        "quantity": 3,
+        "unit": "clove",
+        "category": "produce"
+      },
+      {
+        "name": "ginger",
+        "quantity": 1,
+        "unit": "inch",
+        "category": "produce"
+      },
+      {
+        "name": "rice",
+        "quantity": 1.5,
+        "unit": "cup",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Cook rice.",
+      "Stir-fry chilies, chicken, aromatics.",
+      "Add sauce and peanuts."
+    ],
+    "leftovers_good_for_days": 2
+  },
+  {
+    "id": "chn_beef_broccoli",
+    "name": "Beef & Broccoli",
+    "cuisine": "Chinese",
+    "meal_type": "dinner",
+    "prep_minutes": 15,
+    "cook_minutes": 10,
+    "total_minutes": 25,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "dairy_free",
+      "high_protein"
+    ],
+    "allergens": [
+      "gluten",
+      "shellfish",
+      "soy"
+    ],
+    "calories_per_serving": 560,
+    "protein_g": 34,
+    "carbs_g": 56,
+    "fat_g": 20,
+    "estimated_cost_per_serving_usd": 4.4,
+    "ingredients": [
+      {
+        "name": "flank steak",
+        "quantity": 1.25,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "broccoli",
+        "quantity": 2,
+        "unit": "head",
+        "category": "produce"
+      },
+      {
+        "name": "oyster sauce",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "garlic",
+        "quantity": 3,
+        "unit": "clove",
+        "category": "produce"
+      },
+      {
+        "name": "cornstarch",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "rice",
+        "quantity": 1.5,
+        "unit": "cup",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Cook rice.",
+      "Velvet beef in cornstarch, sear.",
+      "Stir-fry broccoli, add sauce and beef."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "chn_mapo_tofu",
+    "name": "Mapo Tofu",
+    "cuisine": "Chinese",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "total_minutes": 25,
+    "servings": 4,
+    "difficulty": "medium",
+    "tags": [
+      "dairy_free"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "calories_per_serving": 520,
+    "protein_g": 26,
+    "carbs_g": 52,
+    "fat_g": 22,
+    "estimated_cost_per_serving_usd": 2.6,
+    "ingredients": [
+      {
+        "name": "firm tofu",
+        "quantity": 16,
+        "unit": "oz",
+        "category": "protein"
+      },
+      {
+        "name": "ground pork",
+        "quantity": 0.5,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "doubanjiang",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "garlic",
+        "quantity": 3,
+        "unit": "clove",
+        "category": "produce"
+      },
+      {
+        "name": "sichuan peppercorns",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "green onion",
+        "quantity": 3,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "rice",
+        "quantity": 1.5,
+        "unit": "cup",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Cook rice.",
+      "Fry pork with doubanjiang and garlic.",
+      "Simmer tofu in sauce 8 min; finish with peppercorn and green onion."
+    ],
+    "leftovers_good_for_days": 2
+  },
+  {
+    "id": "chn_veg_lo_mein",
+    "name": "Vegetable Lo Mein",
+    "cuisine": "Chinese",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 10,
+    "total_minutes": 20,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "dairy_free"
+    ],
+    "allergens": [
+      "egg",
+      "gluten",
+      "sesame",
+      "soy"
+    ],
+    "calories_per_serving": 470,
+    "protein_g": 14,
+    "carbs_g": 74,
+    "fat_g": 13,
+    "estimated_cost_per_serving_usd": 2.0,
+    "ingredients": [
+      {
+        "name": "lo mein noodles",
+        "quantity": 1,
+        "unit": "lb",
+        "category": "pantry"
+      },
+      {
+        "name": "cabbage",
+        "quantity": 0.25,
+        "unit": "head",
+        "category": "produce"
+      },
+      {
+        "name": "carrot",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "mushrooms",
+        "quantity": 8,
+        "unit": "oz",
+        "category": "produce"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "sesame oil",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Boil noodles.",
+      "Stir-fry vegetables.",
+      "Toss with noodles, soy and sesame oil."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "chn_steamed_cod_ginger",
+    "name": "Steamed Ginger-Scallion Cod",
+    "cuisine": "Chinese",
+    "meal_type": "dinner",
+    "prep_minutes": 10,
+    "cook_minutes": 12,
+    "total_minutes": 22,
+    "servings": 2,
+    "difficulty": "medium",
+    "tags": [
+      "dairy_free",
+      "high_protein",
+      "light"
+    ],
+    "allergens": [
+      "fish",
+      "gluten",
+      "sesame",
+      "soy"
+    ],
+    "calories_per_serving": 420,
+    "protein_g": 34,
+    "carbs_g": 48,
+    "fat_g": 9,
+    "estimated_cost_per_serving_usd": 5.5,
+    "ingredients": [
+      {
+        "name": "cod fillet",
+        "quantity": 0.75,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "ginger",
+        "quantity": 2,
+        "unit": "inch",
+        "category": "produce"
+      },
+      {
+        "name": "green onion",
+        "quantity": 4,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "sesame oil",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "rice",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Cook rice.",
+      "Steam cod with ginger 10 min.",
+      "Top with scallions, pour over hot oil and soy."
+    ],
+    "leftovers_good_for_days": 1
+  },
+  {
+    "id": "brk_overnight_oats",
+    "name": "Overnight Oats",
+    "cuisine": "American comfort",
+    "meal_type": "breakfast",
+    "prep_minutes": 5,
+    "cook_minutes": 0,
+    "total_minutes": 5,
+    "servings": 1,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten_free",
+      "dairy_free",
+      "meal_prep_friendly",
+      "light"
+    ],
+    "allergens": [
+      "tree_nut"
+    ],
+    "calories_per_serving": 350,
+    "protein_g": 9,
+    "carbs_g": 58,
+    "fat_g": 10,
+    "estimated_cost_per_serving_usd": 1.2,
+    "ingredients": [
+      {
+        "name": "certified gluten-free oats",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "almond milk",
+        "quantity": 0.75,
+        "unit": "cup",
+        "category": "dairy"
+      },
+      {
+        "name": "chia seeds",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "maple syrup",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "pantry"
+      },
+      {
+        "name": "banana",
+        "quantity": 0.5,
+        "unit": "whole",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Stir everything in a jar.",
+      "Refrigerate overnight."
+    ],
+    "leftovers_good_for_days": 4
+  },
+  {
+    "id": "brk_veggie_scramble",
+    "name": "Spinach & Tomato Scramble",
+    "cuisine": "American comfort",
+    "meal_type": "breakfast",
+    "prep_minutes": 5,
+    "cook_minutes": 8,
+    "total_minutes": 13,
+    "servings": 1,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "gluten_free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "calories_per_serving": 320,
+    "protein_g": 22,
+    "carbs_g": 6,
+    "fat_g": 23,
+    "estimated_cost_per_serving_usd": 1.6,
+    "ingredients": [
+      {
+        "name": "eggs",
+        "quantity": 3,
+        "unit": "whole",
+        "category": "protein"
+      },
+      {
+        "name": "spinach",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "cherry tomatoes",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "cheddar",
+        "quantity": 1,
+        "unit": "oz",
+        "category": "dairy"
+      }
+    ],
+    "steps": [
+      "Wilt spinach and tomatoes.",
+      "Add beaten eggs, scramble softly, top with cheese."
+    ],
+    "leftovers_good_for_days": 1
+  },
+  {
+    "id": "brk_yogurt_parfait",
+    "name": "Greek Yogurt Parfait",
+    "cuisine": "Mediterranean",
+    "meal_type": "breakfast",
+    "prep_minutes": 5,
+    "cook_minutes": 0,
+    "total_minutes": 5,
+    "servings": 1,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "calories_per_serving": 380,
+    "protein_g": 20,
+    "carbs_g": 52,
+    "fat_g": 10,
+    "estimated_cost_per_serving_usd": 2.2,
+    "ingredients": [
+      {
+        "name": "greek yogurt",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "dairy"
+      },
+      {
+        "name": "granola",
+        "quantity": 0.33,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "mixed berries",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "honey",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Layer yogurt, berries and granola.",
+      "Drizzle with honey."
+    ],
+    "leftovers_good_for_days": 1
+  },
+  {
+    "id": "brk_breakfast_burritos",
+    "name": "Freezer Breakfast Burritos",
+    "cuisine": "Mexican",
+    "meal_type": "breakfast",
+    "prep_minutes": 15,
+    "cook_minutes": 15,
+    "total_minutes": 30,
+    "servings": 6,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "meal_prep_friendly",
+      "freezer_friendly"
+    ],
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "calories_per_serving": 480,
+    "protein_g": 20,
+    "carbs_g": 52,
+    "fat_g": 20,
+    "estimated_cost_per_serving_usd": 1.8,
+    "ingredients": [
+      {
+        "name": "flour tortillas",
+        "quantity": 6,
+        "unit": "whole",
+        "category": "bakery"
+      },
+      {
+        "name": "eggs",
+        "quantity": 8,
+        "unit": "whole",
+        "category": "protein"
+      },
+      {
+        "name": "potato",
+        "quantity": 1,
+        "unit": "lb",
+        "category": "produce"
+      },
+      {
+        "name": "cheddar",
+        "quantity": 6,
+        "unit": "oz",
+        "category": "dairy"
+      },
+      {
+        "name": "black beans",
+        "quantity": 15,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "salsa",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Crisp diced potatoes.",
+      "Scramble eggs.",
+      "Fill tortillas, roll, wrap and freeze."
+    ],
+    "leftovers_good_for_days": 4
+  },
+  {
+    "id": "brk_tamagoyaki_rice",
+    "name": "Tamagoyaki & Rice",
+    "cuisine": "Japanese",
+    "meal_type": "breakfast",
+    "prep_minutes": 10,
+    "cook_minutes": 10,
+    "total_minutes": 20,
+    "servings": 2,
+    "difficulty": "medium",
+    "tags": [
+      "vegetarian",
+      "dairy_free"
+    ],
+    "allergens": [
+      "egg",
+      "gluten",
+      "soy"
+    ],
+    "calories_per_serving": 400,
+    "protein_g": 16,
+    "carbs_g": 58,
+    "fat_g": 10,
+    "estimated_cost_per_serving_usd": 1.4,
+    "ingredients": [
+      {
+        "name": "eggs",
+        "quantity": 4,
+        "unit": "whole",
+        "category": "protein"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "pantry"
+      },
+      {
+        "name": "mirin",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "short-grain rice",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "nori",
+        "quantity": 1,
+        "unit": "sheet",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Whisk eggs with mirin and soy.",
+      "Cook in thin layers, rolling each.",
+      "Serve with rice and nori."
+    ],
+    "leftovers_good_for_days": 1
+  },
+  {
+    "id": "brk_chilaquiles",
+    "name": "Chilaquiles Verdes",
+    "cuisine": "Mexican",
+    "meal_type": "breakfast",
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "total_minutes": 25,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "gluten_free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "calories_per_serving": 560,
+    "protein_g": 20,
+    "carbs_g": 48,
+    "fat_g": 32,
+    "estimated_cost_per_serving_usd": 2.5,
+    "ingredients": [
+      {
+        "name": "tortilla chips",
+        "quantity": 4,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "salsa verde",
+        "quantity": 1.5,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "eggs",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "protein"
+      },
+      {
+        "name": "queso fresco",
+        "quantity": 2,
+        "unit": "oz",
+        "category": "dairy"
+      },
+      {
+        "name": "avocado",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Simmer chips in salsa 2 min.",
+      "Top with fried eggs, cheese, avocado."
+    ],
+    "leftovers_good_for_days": 1
+  },
+  {
+    "id": "brk_masala_omelette",
+    "name": "Masala Omelette",
+    "cuisine": "Indian",
+    "meal_type": "breakfast",
+    "prep_minutes": 5,
+    "cook_minutes": 8,
+    "total_minutes": 13,
+    "servings": 1,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "gluten_free",
+      "dairy_free",
+      "light"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "calories_per_serving": 260,
+    "protein_g": 19,
+    "carbs_g": 8,
+    "fat_g": 17,
+    "estimated_cost_per_serving_usd": 1.0,
+    "ingredients": [
+      {
+        "name": "eggs",
+        "quantity": 3,
+        "unit": "whole",
+        "category": "protein"
+      },
+      {
+        "name": "onion",
+        "quantity": 0.25,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "tomato",
+        "quantity": 0.5,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "green chili",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "cilantro",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "produce"
+      },
+      {
+        "name": "turmeric",
+        "quantity": 0.25,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "vegetable oil",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Whisk eggs with chopped veg and turmeric.",
+      "Cook in oil, fold."
+    ],
+    "leftovers_good_for_days": 1
+  },
+  {
+    "id": "brk_ginger_congee",
+    "name": "Ginger Chicken Congee",
+    "cuisine": "Chinese",
+    "meal_type": "breakfast",
+    "prep_minutes": 5,
+    "cook_minutes": 60,
+    "total_minutes": 65,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "dairy_free",
+      "meal_prep_friendly",
+      "comfort_food",
+      "light"
+    ],
+    "allergens": [
+      "gluten",
+      "sesame",
+      "soy"
+    ],
+    "calories_per_serving": 220,
+    "protein_g": 6,
+    "carbs_g": 40,
+    "fat_g": 3,
+    "estimated_cost_per_serving_usd": 0.8,
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": 0.75,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "chicken broth",
+        "quantity": 8,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "ginger",
+        "quantity": 2,
+        "unit": "inch",
+        "category": "produce"
+      },
+      {
+        "name": "green onion",
+        "quantity": 3,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "sesame oil",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Simmer rice in broth with ginger 60 min, stirring.",
+      "Top with green onion, soy, sesame oil."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "brk_banana_pancakes",
+    "name": "Banana Pancakes",
+    "cuisine": "American comfort",
+    "meal_type": "breakfast",
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "total_minutes": 25,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "freezer_friendly",
+      "comfort_food"
+    ],
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "calories_per_serving": 420,
+    "protein_g": 11,
+    "carbs_g": 66,
+    "fat_g": 13,
+    "estimated_cost_per_serving_usd": 1.0,
+    "ingredients": [
+      {
+        "name": "flour",
+        "quantity": 1.5,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "milk",
+        "quantity": 1.25,
+        "unit": "cup",
+        "category": "dairy"
+      },
+      {
+        "name": "eggs",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "protein"
+      },
+      {
+        "name": "banana",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "butter",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "dairy"
+      },
+      {
+        "name": "maple syrup",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "baking powder",
+        "quantity": 2,
+        "unit": "tsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Whisk batter, fold in mashed banana.",
+      "Griddle in butter.",
+      "Serve with maple syrup."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "brk_tofu_scramble",
+    "name": "Turmeric Tofu Scramble",
+    "cuisine": "American comfort",
+    "meal_type": "breakfast",
+    "prep_minutes": 5,
+    "cook_minutes": 10,
+    "total_minutes": 15,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten_free",
+      "dairy_free"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "calories_per_serving": 280,
+    "protein_g": 22,
+    "carbs_g": 10,
+    "fat_g": 17,
+    "estimated_cost_per_serving_usd": 1.6,
+    "ingredients": [
+      {
+        "name": "firm tofu",
+        "quantity": 14,
+        "unit": "oz",
+        "category": "protein"
+      },
+      {
+        "name": "spinach",
+        "quantity": 2,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "turmeric",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "nutritional yeast",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "olive oil",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "bell pepper",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Crumble tofu into hot oil with pepper.",
+      "Add turmeric, yeast, spinach."
+    ],
+    "leftovers_good_for_days": 2
+  },
+  {
+    "id": "brk_avocado_feta_toast",
+    "name": "Avocado Feta Toast",
+    "cuisine": "Mediterranean",
+    "meal_type": "breakfast",
+    "prep_minutes": 5,
+    "cook_minutes": 3,
+    "total_minutes": 8,
+    "servings": 1,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "calories_per_serving": 420,
+    "protein_g": 13,
+    "carbs_g": 38,
+    "fat_g": 25,
+    "estimated_cost_per_serving_usd": 2.4,
+    "ingredients": [
+      {
+        "name": "sourdough bread",
+        "quantity": 2,
+        "unit": "slice",
+        "category": "bakery"
+      },
+      {
+        "name": "avocado",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "feta",
+        "quantity": 1,
+        "unit": "oz",
+        "category": "dairy"
+      },
+      {
+        "name": "cherry tomatoes",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "olive oil",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Toast bread.",
+      "Smash avocado on top, add feta and tomatoes."
+    ],
+    "leftovers_good_for_days": 0
+  },
+  {
+    "id": "brk_zucchini_frittata",
+    "name": "Zucchini Parmesan Frittata",
+    "cuisine": "Italian",
+    "meal_type": "breakfast",
+    "prep_minutes": 10,
+    "cook_minutes": 20,
+    "total_minutes": 30,
+    "servings": 6,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "gluten_free",
+      "meal_prep_friendly"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "calories_per_serving": 240,
+    "protein_g": 17,
+    "carbs_g": 5,
+    "fat_g": 17,
+    "estimated_cost_per_serving_usd": 1.3,
+    "ingredients": [
+      {
+        "name": "eggs",
+        "quantity": 10,
+        "unit": "whole",
+        "category": "protein"
+      },
+      {
+        "name": "zucchini",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "parmesan",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "dairy"
+      },
+      {
+        "name": "milk",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "dairy"
+      },
+      {
+        "name": "olive oil",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Saute zucchini and onion.",
+      "Pour in egg mixture, cook 5 min.",
+      "Finish in oven 15 min at 375F."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "lun_caprese_sandwich",
+    "name": "Caprese Ciabatta Sandwich",
+    "cuisine": "Italian",
+    "meal_type": "lunch",
+    "prep_minutes": 10,
+    "cook_minutes": 0,
+    "total_minutes": 10,
+    "servings": 1,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian"
+    ],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "calories_per_serving": 520,
+    "protein_g": 22,
+    "carbs_g": 50,
+    "fat_g": 26,
+    "estimated_cost_per_serving_usd": 3.0,
+    "ingredients": [
+      {
+        "name": "ciabatta",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "bakery"
+      },
+      {
+        "name": "mozzarella",
+        "quantity": 3,
+        "unit": "oz",
+        "category": "dairy"
+      },
+      {
+        "name": "tomato",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "basil",
+        "quantity": 6,
+        "unit": "leaf",
+        "category": "produce"
+      },
+      {
+        "name": "balsamic vinegar",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "pantry"
+      },
+      {
+        "name": "olive oil",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Layer mozzarella, tomato, basil on ciabatta.",
+      "Drizzle with oil and balsamic."
+    ],
+    "leftovers_good_for_days": 0
+  },
+  {
+    "id": "lun_chicken_burrito_bowl",
+    "name": "Chicken Burrito Bowl",
+    "cuisine": "Mexican",
+    "meal_type": "lunch",
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "total_minutes": 25,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "gluten_free",
+      "dairy_free",
+      "high_protein",
+      "meal_prep_friendly"
+    ],
+    "allergens": [],
+    "calories_per_serving": 580,
+    "protein_g": 40,
+    "carbs_g": 66,
+    "fat_g": 16,
+    "estimated_cost_per_serving_usd": 3.0,
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "quantity": 1.5,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "rice",
+        "quantity": 1.5,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "black beans",
+        "quantity": 15,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "frozen corn",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "frozen"
+      },
+      {
+        "name": "salsa",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "avocado",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "lime",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Cook rice.",
+      "Season and sear chicken.",
+      "Assemble with beans, corn, salsa, avocado, lime."
+    ],
+    "leftovers_good_for_days": 4
+  },
+  {
+    "id": "lun_tandoori_chicken_wrap",
+    "name": "Tandoori Chicken Naan Wrap",
+    "cuisine": "Indian",
+    "meal_type": "lunch",
+    "prep_minutes": 10,
+    "cook_minutes": 12,
+    "total_minutes": 22,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "high_protein"
+    ],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "calories_per_serving": 560,
+    "protein_g": 38,
+    "carbs_g": 50,
+    "fat_g": 20,
+    "estimated_cost_per_serving_usd": 3.4,
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "quantity": 0.75,
+        "unit": "lb",
+        "category": "protein"
+      },
+      {
+        "name": "plain yogurt",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "dairy"
+      },
+      {
+        "name": "garam masala",
+        "quantity": 2,
+        "unit": "tsp",
+        "category": "spices"
+      },
+      {
+        "name": "naan",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "bakery"
+      },
+      {
+        "name": "cucumber",
+        "quantity": 0.5,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "red onion",
+        "quantity": 0.25,
+        "unit": "whole",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and spice.",
+      "Sear 10-12 min, slice.",
+      "Wrap in warm naan with cucumber and onion."
+    ],
+    "leftovers_good_for_days": 2
+  },
+  {
+    "id": "lun_peanut_noodle_salad",
+    "name": "Cold Peanut Noodle Salad",
+    "cuisine": "Thai",
+    "meal_type": "lunch",
+    "prep_minutes": 15,
+    "cook_minutes": 5,
+    "total_minutes": 20,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy_free",
+      "meal_prep_friendly"
+    ],
+    "allergens": [
+      "gluten",
+      "peanut",
+      "soy"
+    ],
+    "calories_per_serving": 480,
+    "protein_g": 16,
+    "carbs_g": 62,
+    "fat_g": 20,
+    "estimated_cost_per_serving_usd": 1.8,
+    "ingredients": [
+      {
+        "name": "rice noodles",
+        "quantity": 8,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "peanut butter",
+        "quantity": 0.33,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "lime",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "cabbage",
+        "quantity": 0.25,
+        "unit": "head",
+        "category": "produce"
+      },
+      {
+        "name": "carrot",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "cucumber",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "cilantro",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Cook and rinse noodles.",
+      "Whisk peanut butter, soy, lime.",
+      "Toss with shredded veg and herbs."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "lun_edamame_soba_salad",
+    "name": "Edamame Soba Salad",
+    "cuisine": "Japanese",
+    "meal_type": "lunch",
+    "prep_minutes": 10,
+    "cook_minutes": 5,
+    "total_minutes": 15,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy_free",
+      "meal_prep_friendly",
+      "light"
+    ],
+    "allergens": [
+      "gluten",
+      "sesame",
+      "soy"
+    ],
+    "calories_per_serving": 420,
+    "protein_g": 18,
+    "carbs_g": 62,
+    "fat_g": 12,
+    "estimated_cost_per_serving_usd": 2.4,
+    "ingredients": [
+      {
+        "name": "soba noodles",
+        "quantity": 6,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "frozen edamame",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "frozen"
+      },
+      {
+        "name": "carrot",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "cucumber",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "rice vinegar",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "sesame oil",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "pantry"
+      },
+      {
+        "name": "sesame seeds",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Cook soba and edamame together, rinse cold.",
+      "Toss with veg and dressing."
+    ],
+    "leftovers_good_for_days": 3
+  },
+  {
+    "id": "lun_greek_chickpea_salad",
+    "name": "Greek Chickpea Salad",
+    "cuisine": "Mediterranean",
+    "meal_type": "lunch",
+    "prep_minutes": 10,
+    "cook_minutes": 0,
+    "total_minutes": 10,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "gluten_free",
+      "meal_prep_friendly",
+      "light"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "calories_per_serving": 430,
+    "protein_g": 16,
+    "carbs_g": 36,
+    "fat_g": 26,
+    "estimated_cost_per_serving_usd": 2.4,
+    "ingredients": [
+      {
+        "name": "chickpeas",
+        "quantity": 15,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "cucumber",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "tomato",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "red onion",
+        "quantity": 0.25,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "kalamata olives",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "feta",
+        "quantity": 2,
+        "unit": "oz",
+        "category": "dairy"
+      },
+      {
+        "name": "olive oil",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "lemon",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Chop vegetables.",
+      "Toss with chickpeas, olives, feta, oil and lemon."
+    ],
+    "leftovers_good_for_days": 2
+  },
+  {
+    "id": "lun_tuna_melt",
+    "name": "Tuna Melt",
+    "cuisine": "American comfort",
+    "meal_type": "lunch",
+    "prep_minutes": 5,
+    "cook_minutes": 8,
+    "total_minutes": 13,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "high_protein",
+      "pantry_friendly"
+    ],
+    "allergens": [
+      "dairy",
+      "egg",
+      "fish",
+      "gluten"
+    ],
+    "calories_per_serving": 560,
+    "protein_g": 34,
+    "carbs_g": 34,
+    "fat_g": 32,
+    "estimated_cost_per_serving_usd": 2.4,
+    "ingredients": [
+      {
+        "name": "canned tuna",
+        "quantity": 10,
+        "unit": "oz",
+        "category": "protein"
+      },
+      {
+        "name": "mayonnaise",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "celery",
+        "quantity": 1,
+        "unit": "stalk",
+        "category": "produce"
+      },
+      {
+        "name": "sourdough bread",
+        "quantity": 4,
+        "unit": "slice",
+        "category": "bakery"
+      },
+      {
+        "name": "cheddar",
+        "quantity": 2,
+        "unit": "oz",
+        "category": "dairy"
+      }
+    ],
+    "steps": [
+      "Mix tuna, mayo, celery.",
+      "Top bread with tuna and cheese, griddle until melty."
+    ],
+    "leftovers_good_for_days": 0
+  },
+  {
+    "id": "lun_wonton_soup",
+    "name": "Quick Wonton Soup",
+    "cuisine": "Chinese",
+    "meal_type": "lunch",
+    "prep_minutes": 5,
+    "cook_minutes": 10,
+    "total_minutes": 15,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "dairy_free",
+      "light",
+      "pantry_friendly"
+    ],
+    "allergens": [
+      "egg",
+      "gluten",
+      "sesame",
+      "soy"
+    ],
+    "calories_per_serving": 360,
+    "protein_g": 18,
+    "carbs_g": 42,
+    "fat_g": 12,
+    "estimated_cost_per_serving_usd": 3.0,
+    "ingredients": [
+      {
+        "name": "frozen pork wontons",
+        "quantity": 16,
+        "unit": "whole",
+        "category": "frozen"
+      },
+      {
+        "name": "chicken broth",
+        "quantity": 4,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "bok choy",
+        "quantity": 2,
+        "unit": "head",
+        "category": "produce"
+      },
+      {
+        "name": "green onion",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "sesame oil",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Bring broth to a simmer.",
+      "Cook wontons 6 min, add bok choy 2 min.",
+      "Season and top with green onion."
+    ],
+    "leftovers_good_for_days": 1
+  },
+  {
+    "id": "lun_turkey_avocado_wrap",
+    "name": "Turkey Avocado Wrap",
+    "cuisine": "American comfort",
+    "meal_type": "lunch",
+    "prep_minutes": 5,
+    "cook_minutes": 0,
+    "total_minutes": 5,
+    "servings": 1,
+    "difficulty": "easy",
+    "tags": [
+      "dairy_free",
+      "high_protein"
+    ],
+    "allergens": [
+      "egg",
+      "gluten"
+    ],
+    "calories_per_serving": 480,
+    "protein_g": 28,
+    "carbs_g": 40,
+    "fat_g": 22,
+    "estimated_cost_per_serving_usd": 3.2,
+    "ingredients": [
+      {
+        "name": "flour tortillas",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "bakery"
+      },
+      {
+        "name": "sliced turkey",
+        "quantity": 4,
+        "unit": "oz",
+        "category": "protein"
+      },
+      {
+        "name": "avocado",
+        "quantity": 0.5,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "lettuce",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "tomato",
+        "quantity": 0.5,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "mayonnaise",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Spread mayo on tortilla.",
+      "Layer turkey, avocado, lettuce, tomato; roll."
+    ],
+    "leftovers_good_for_days": 0
+  },
+  {
+    "id": "lun_spinach_egg_rice_bowl",
+    "name": "Garlic Spinach & Egg Rice Bowl",
+    "cuisine": "Chinese",
+    "meal_type": "lunch",
+    "prep_minutes": 5,
+    "cook_minutes": 10,
+    "total_minutes": 15,
+    "servings": 1,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "dairy_free",
+      "pantry_friendly"
+    ],
+    "allergens": [
+      "egg",
+      "gluten",
+      "sesame",
+      "soy"
+    ],
+    "calories_per_serving": 450,
+    "protein_g": 18,
+    "carbs_g": 56,
+    "fat_g": 16,
+    "estimated_cost_per_serving_usd": 1.2,
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "eggs",
+        "quantity": 2,
+        "unit": "whole",
+        "category": "protein"
+      },
+      {
+        "name": "spinach",
+        "quantity": 2,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "pantry"
+      },
+      {
+        "name": "sesame oil",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "pantry"
+      },
+      {
+        "name": "garlic",
+        "quantity": 2,
+        "unit": "clove",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Cook or reheat rice.",
+      "Saute garlic and spinach.",
+      "Fry eggs; pile on rice, season with soy and sesame oil."
+    ],
+    "leftovers_good_for_days": 1
+  },
+  {
+    "id": "lun_bean_quesadillas",
+    "name": "Black Bean Quesadillas",
+    "cuisine": "Mexican",
+    "meal_type": "lunch",
+    "prep_minutes": 5,
+    "cook_minutes": 8,
+    "total_minutes": 13,
+    "servings": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "pantry_friendly"
+    ],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "calories_per_serving": 520,
+    "protein_g": 22,
+    "carbs_g": 52,
+    "fat_g": 24,
+    "estimated_cost_per_serving_usd": 1.6,
+    "ingredients": [
+      {
+        "name": "flour tortillas",
+        "quantity": 4,
+        "unit": "whole",
+        "category": "bakery"
+      },
+      {
+        "name": "cheddar",
+        "quantity": 4,
+        "unit": "oz",
+        "category": "dairy"
+      },
+      {
+        "name": "black beans",
+        "quantity": 15,
+        "unit": "oz",
+        "category": "pantry"
+      },
+      {
+        "name": "salsa",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "bell pepper",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      }
+    ],
+    "steps": [
+      "Fill tortillas with beans, pepper, cheese.",
+      "Griddle until crisp; serve with salsa."
+    ],
+    "leftovers_good_for_days": 1
+  },
+  {
+    "id": "lun_hummus_plate",
+    "name": "Hummus Veggie Plate",
+    "cuisine": "Mediterranean",
+    "meal_type": "lunch",
+    "prep_minutes": 10,
+    "cook_minutes": 0,
+    "total_minutes": 10,
+    "servings": 1,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy_free",
+      "light"
+    ],
+    "allergens": [
+      "gluten",
+      "sesame"
+    ],
+    "calories_per_serving": 450,
+    "protein_g": 14,
+    "carbs_g": 58,
+    "fat_g": 18,
+    "estimated_cost_per_serving_usd": 2.6,
+    "ingredients": [
+      {
+        "name": "hummus",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "pantry"
+      },
+      {
+        "name": "pita bread",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "bakery"
+      },
+      {
+        "name": "cucumber",
+        "quantity": 0.5,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "carrot",
+        "quantity": 1,
+        "unit": "whole",
+        "category": "produce"
+      },
+      {
+        "name": "cherry tomatoes",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "produce"
+      },
+      {
+        "name": "kalamata olives",
+        "quantity": 6,
+        "unit": "whole",
+        "category": "pantry"
+      }
+    ],
+    "steps": [
+      "Slice vegetables and pita.",
+      "Plate with hummus and olives."
+    ],
+    "leftovers_good_for_days": 2
+  }
+]
