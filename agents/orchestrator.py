@@ -41,6 +41,7 @@ Boundary examples:
   tonight_decision: the decision is made, they want the recipe.
 - "Hmm, something lighter than the tacos?" -> tonight_decision (a revision, not an acceptance).
 - "Can I use flour tortillas instead?" -> food_qa.
+- "What snacks should I make for movie night?" (snack/party food, not a single meal decision) -> food_qa.
 
 ACTIVE TASK RULE: if an active task has a pending question, a short reply that answers it ("kinda tired honestly",
 "just me", "nope", "chicken and rice") belongs to that task's intent. Only switch if the user clearly starts
