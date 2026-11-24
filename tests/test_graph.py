@@ -36,3 +36,15 @@ def test_after_check():
     assert after_check({"check_target": "plan"}) == "grocery_agent"
     assert after_check({"check_target": "plan", "retry_requested": True}) == "meal_planner"
     assert after_check({"check_target": "tonight"}) == "response_composer"
+
+
+def test_composer_prompt_forbids_ungrounded_foods():
+    from agents.composer import PROMPTS
+    for prompt in PROMPTS.values():
+        assert "unless" in prompt and "appear in the payload" in prompt
+        assert "I don't have a recipe for that" in prompt
+
+
+def test_orchestrator_prompt_routes_snack_requests_to_food_qa():
+    from agents.orchestrator import PROMPTS
+    assert "movie night?\" (snack/party food, not a single meal decision) -> food_qa" in PROMPTS["v1"]
